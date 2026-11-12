@@ -1,0 +1,1 @@
+This skill has no asset dependencies. Its reusable prompt is maintained in references/universal-rules.md so that the assistant can read it and provide it to other AI platforms on request.
